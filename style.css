@@ -9,3 +9,12 @@ header{
  color: black;
  background-color: rgb(177, 141, 212);
 }
+.chamada{
+    
+  background: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  display: flex;
+  background: rgb(177, 141, 212);
+  justify-content: center;
+}

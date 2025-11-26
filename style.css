@@ -4,5 +4,8 @@ background-color: azure;
 }
 header{
     border-bottom: solid 2px rgb(rgb(0, 0, 0));
-    
+ padding: 20px;
+ font-size: 32px;   
+ color: black;
+ background-color: rgb(177, 141, 212);
 }
